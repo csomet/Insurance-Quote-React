@@ -1,3 +1,6 @@
+## Demo App using React
+Web app to get instant car insurace quote.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
